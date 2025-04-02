@@ -8,7 +8,7 @@
 
 
 ## 1. 레파지토리 생성
-- [https://classroom.github.com/a/T3QcP9pQ](https://classroom.github.com/a/T3QcP9pQ)
+- [https://classroom.github.com/a/wUrpZB4m](https://classroom.github.com/a/wUrpZB4m)
 - 위 Github Classroom 링크에 접속해 본인 조의 github 레파지토리를 생성하세요.
   <img src="https://github.com/user-attachments/assets/aab768c0-7f1a-4919-99c1-5ead50c3c61d" width="600px" alt="classroom에서 팀 생성 그림" />
 - 레파지토리 생성 시 팀 이름은 `{조번호}` 형식으로 생성하세요.
