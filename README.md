@@ -14,7 +14,7 @@
   <img src="https://github.com/user-attachments/assets/d82da173-34a9-4adf-82e6-b712c59ecc70" width="600px" alt="classroom에서 팀 생성 그림"/>
 - 레파지토리 생성 시 팀 이름은 `{조번호}` 형식으로 생성하세요.
 - 예를 들어, 3조의 팀명은 `03` 입니다.
-- 이 경우 `Group-03`이라는 이름으로 레포지토리가 생성됩니다.
+- 이 경우 `PNUSW-03`이라는 이름으로 레포지토리가 생성됩니다.
 - 팀원의 경우 생성되어 있는 팀에 참가해주세요. <br/>
   팀에 참가하지 않았을 경우, 레포지토리에 대한 권한이 없어 PR 및 commit이 막힐 수 있습니다.
   <img src="https://github.com/user-attachments/assets/e1eece39-9d07-485a-aadf-74479ee85d90" width="600px" alt="classroom에서 팀 참여 그림"/>
