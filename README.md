@@ -1,5 +1,5 @@
-# Template for Hackathon
-이 레파지토리는 참여자들이 해커톤 결과물을 위한 레파지토리 생성시에 참고할 내용들을 담고 있습니다.
+# Template for Study Group
+이 레파지토리는 참여자들이 학습공동체 결과물을 위한 레파지토리 생성시에 참고할 내용들을 담고 있습니다.
 1. 레파지토리 생성
 2. 레파지토리 구성
 3. README.md 가이드라인
@@ -8,15 +8,16 @@
 
 
 ## 1. 레파지토리 생성
-- [https://classroom.github.com/a/wUrpZB4m](https://classroom.github.com/a/wUrpZB4m)
+
+- https://classroom.github.com/a/wUrpZB4m
 - 위 Github Classroom 링크에 접속해 본인 조의 github 레파지토리를 생성하세요.
-  <img src="https://github.com/user-attachments/assets/aab768c0-7f1a-4919-99c1-5ead50c3c61d" width="600px" alt="classroom에서 팀 생성 그림" />
+  <img src="https://github.com/user-attachments/assets/d82da173-34a9-4adf-82e6-b712c59ecc70" width="600px" alt="classroom에서 팀 생성 그림"/>
 - 레파지토리 생성 시 팀 이름은 `{조번호}` 형식으로 생성하세요.
 - 예를 들어, 3조의 팀명은 `03` 입니다.
 - 이 경우 `Group-03`이라는 이름으로 레포지토리가 생성됩니다.
 - 팀원의 경우 생성되어 있는 팀에 참가해주세요. <br/>
   팀에 참가하지 않았을 경우, 레포지토리에 대한 권한이 없어 PR 및 commit이 막힐 수 있습니다.
-  <img width="600" alt="classroom에서 팀 참여 그림" src="https://github.com/user-attachments/assets/86f084f0-8623-40ed-b6d5-4e307ee8478b">
+  <img src="https://github.com/user-attachments/assets/e1eece39-9d07-485a-aadf-74479ee85d90" width="600px" alt="classroom에서 팀 참여 그림"/>
 <br/>
 
 
